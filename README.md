@@ -24,7 +24,7 @@ git clone https://github.com/lesmonsaluta/AWS-Cebu-Supercharge-ML.git
 
 2. Navigate to the repository's directory:
 ```
-cd aws-comprehend-forecast-demo
+cd AWS-Cebu-Supercharge-ML
 ```
 
 3. Install the required Python libraries:
