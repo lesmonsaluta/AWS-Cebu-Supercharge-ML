@@ -1,2 +1,21 @@
 # AWS-Cebu-Supercharge-ML
-Repository for Notebooks discussed in AWS Cebu Roadshow 2023
+
+
+
+## Description
+
+This project is still in progress. Stay tuned for updates!
+
+## Installation
+
+`WIP`
+
+## Usage
+
+`WIP`
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request.
+
+
