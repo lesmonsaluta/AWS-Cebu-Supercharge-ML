@@ -19,7 +19,7 @@ Before running the demo notebooks, ensure you have the following:
 
 1. Clone this repository to your local machine using:
 ```
-git clone https://github.com/your-username/aws-comprehend-forecast-demo.git
+git clone https://github.com/lesmonsaluta/AWS-Cebu-Supercharge-ML.git
 ```
 
 2. Navigate to the repository's directory:
